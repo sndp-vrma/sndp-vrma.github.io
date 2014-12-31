@@ -186,7 +186,11 @@ Apache License
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
+<<<<<<< HEAD
    Copyright 2014 Iron Summit Media Strategies, LLC
+=======
+   Copyright {yyyy} {name of copyright owner}
+>>>>>>> c7bd4db0a4e8b6af245fcedc482fa8c3ea643886
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
